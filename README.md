@@ -1,7 +1,7 @@
-# Rest_like_A_boss
+# hngbackend2
 <br />
 <p align="center">
-  <a href="https://github.com/Murithijoshua/Rest_like_A_boss">
+  <a href="https://github.com/Murithijoshua/hngbackend2">
     <img src="<img src="http://placeskull.com/g/80/80/" alt="place ape" />" alt="Logo" width="80" height="80">
   </a>
 
@@ -12,11 +12,11 @@
     <br />
     <br />
     <br />
-    <a href="https://github.com/Murithijoshua/Rest_like_A_boss">View Demo</a>
+    <a href="https://github.com/Murithijoshua/hngbackend2">View Demo</a>
     ·
-    <a href="https://github.com/Murithijoshua/Rest_like_A_boss/issues">Report Bug</a>
+    <a href="https://github.com/Murithijoshua/hngbackend2/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Murithijoshua/Rest_like_A_boss/issues">Request Feature</a>
+    <a href="https://github.com/Murithijoshua/hngbackend2/issues">Request Feature</a>
   </p>
 </p>
 
@@ -80,7 +80,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Murithijoshua/Rest_like_A_boss.git
+   git clone https://github.com/Murithijoshua/hngbackend2.git
    ```
 2. Create virtual enviroment
    ```sh
@@ -96,7 +96,7 @@ This is an example of how to list things you need to use the software and how to
    ```
 5. Run the application
    ```sh
-   cd Rest_like_A_boss
+   cd hngbackend2
 
    ```
     ```sh
@@ -125,7 +125,7 @@ This is an example of how to list things you need to use the software and how to
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/Murithijoshua/Rest_like_A_boss/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/Murithijoshua/hngbackend2/issues) for a list of proposed features (and known issues).
 
 
 
@@ -154,7 +154,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
 
-Project Link: [https://github.com/Murithijoshua/Rest_like_A_boss](https://github.com/Murithijoshua/Rest_like_A_boss)
+Project Link: [https://github.com/Murithijoshua/hngbackend2](https://github.com/Murithijoshua/hngbackend2)
 
 
 
