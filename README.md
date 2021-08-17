@@ -2,17 +2,15 @@
 <br />
 <p align="center">
   <a href="https://github.com/Murithijoshua/hngbackend2">
-    <img src="<img src="http://placeskull.com/g/80/80/" alt="place ape" />" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">project_title</h3>
+  <h3 align="center">HnG Portfolio</h3>
 
   <p align="center">
-    This is a Reddit_clone REST API, where one can upvote or  down vote posts.
     <br />
     <br />
     <br />
-    <a href="https://github.com/Murithijoshua/hngbackend2">View Demo</a>
+    <a href="https://rocky-cliffs-88010.herokuapp.com/">View Demo</a>
     ·
     <a href="https://github.com/Murithijoshua/hngbackend2/issues">Report Bug</a>
     ·
