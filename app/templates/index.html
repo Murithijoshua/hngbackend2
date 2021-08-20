@@ -24,6 +24,8 @@
 
       nav {
         height: 10vh;
+        background-color: #26a69a !important;
+        
       }
 
       p {
@@ -103,12 +105,13 @@
         <div class="nav-wrapper  ">
           <a href="{% url 'form' %}" class="brand-logo center">Home</a>
           <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
+          <a href="#" data-activates="nav-mobile" class="button-collapse"></a>
           <ul id="nav-mobile" class="left hide-on-med-and-down ">
             <li><a href="https://internship.zuri.team"><img src="https://hng.tech/img/brand-logo.png" alt="" srcset=""
                   style="height: 50px;padding: 5px;"></a></li>
             <li><a href="#about">about</a></li>
             <li><a href="#contact ">Contact</a></li>
-            <li><a href="{% url 'form'%} ">api</a></li>
+            <!-- <li><a href="{% url 'form'%} ">api</a></li> -->
           </ul>
         </div>
         
@@ -120,6 +123,7 @@
               style="height: 50px;padding: 5px;"></a></li>
         <li><a href="#about">about</a></li>
         <li><a href="#contact ">Contact</a></li> 
+        
       </ul> 
      
   
