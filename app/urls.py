@@ -5,7 +5,7 @@ from django.urls import path, include
 from rest_framework import routers
 from . import views
 router = routers.DefaultRouter()
-router.register(r'api',views.ReportviewSet)
+router.register(r'api/v1/',views.ReportviewSet)
 admin.site.site_header = "IssueReporter Admin"
 admin.site.site_title = "IssueReporter Admin Portal"
 admin.site.index_title = "Welcome to IssueReporter Portal"
